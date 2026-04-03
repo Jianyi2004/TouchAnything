@@ -82,29 +82,20 @@ EgoTouch is the first dataset to jointly provide multi-view video, bimanual hand
 
 <div align="center">
 
-### Grasping Thermos
-
-https://github.com/user-attachments/assets/拿保温杯_20260325_171636_233_tactile.mp4
-
-### Handling Hair Dryer
-
-https://github.com/user-attachments/assets/拿吹风机_20260320_094951_941_tactile.mp4
-
-### Grasping Beverage
-
-https://github.com/user-attachments/assets/拿饮料_20260325_163212_035_tactile.mp4
-
-### Picking Up Mouse
-
-https://github.com/user-attachments/assets/拿鼠标2_20260316_215323_166_tactile.mp4
-
-### Bouncing Ping-Pong Ball
-
-https://github.com/user-attachments/assets/颠乒乓球_20260320_172305_280_tactile.mp4
-
-### USB Insertion
-
-https://github.com/user-attachments/assets/插拔USB接口_20260319_115454_872_tactile.mp4
+<table>
+<tr>
+<td align="center"><b>Grasping Thermos</b><br><img src="assets/拿保温杯_20260325_171636_233_tactile.gif" width="100%"></td>
+<td align="center"><b>Handling Hair Dryer</b><br><img src="assets/拿吹风机_20260320_094951_941_tactile.gif" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><b>Grasping Beverage</b><br><img src="assets/拿饮料_20260325_163212_035_tactile.gif" width="100%"></td>
+<td align="center"><b>Picking Up Mouse</b><br><img src="assets/拿鼠标2_20260316_215323_166_tactile.gif" width="100%"></td>
+</tr>
+<tr>
+<td align="center"><b>Bouncing Ping-Pong Ball</b><br><img src="assets/颠乒乓球_20260320_172305_280_tactile.gif" width="100%"></td>
+<td align="center"><b>USB Insertion</b><br><img src="assets/插拔USB接口_20260319_115454_872_tactile.gif" width="100%"></td>
+</tr>
+</table>
 
 </div>
 
