@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
 
 **[Jianyi Zhou](https://github.com/Jianyi2004)<sup>1</sup>, Ziteng Gao<sup>1</sup>, Feiyang Hong<sup>1</sup>, Zirui Liu<sup>1</sup>, Guannan Zhang<sup>1</sup>, Weisheng Dai<sup>1</sup>,**  
-**Ruichen Zhen<sup>2</sup>, Haotian Wu<sup>2</sup>, Yinian Mao<sup>2</sup>, Xushi Wang<sup>1</sup>, Yuxiang Jiang<sup>1</sup>, [Shuo Yang](mailto:shuoyang@hit.edu.cn)<sup>1✉</sup>**
+**Ruichen Zhen<sup>2</sup>, Chuqiao Lyu<sup>2</sup>, Haotian Wu<sup>2</sup>, Yinian Mao<sup>2</sup>, Xushi Wang<sup>1</sup>, Yuxiang Jiang<sup>1</sup>, [Shuo Yang](mailto:shuoyang@hit.edu.cn)<sup>1✉</sup>**
 
 <sup>1</sup>Harbin Institute of Technology, Shenzhen &nbsp;&nbsp; <sup>2</sup>Meituan Academy of Robotics
 
