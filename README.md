@@ -191,7 +191,7 @@ This work represents a collaborative effort across multiple domains, from hardwa
 
 ## 📄 License
 
-> **Coming Soon**: License information will be provided upon dataset and code release.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
